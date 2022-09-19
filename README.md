@@ -3,7 +3,7 @@
 
 ## Overview of the analysis
 
-In this project I have picked a data set from amazon reviews about video games and used Pyspark to perform the ETL process by extracting the data, transforming the data and connecting to the database that was generated for me through the AWS webserver. My goal with the reviews was to try and determine if there is favorable review bias from the Vine members of our data set.
+In this project I picked a dataset from Amazon reviews about video games and used Pyspark to perform the ETL process by extracting the data, transforming the data and connecting to the database that was generated for me through the AWS webserver. My goal with the reviews was to try and determine if there is favorable review bias from the Vine members of our data set.
 
 ## Results: 
 
